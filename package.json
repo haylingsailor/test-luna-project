@@ -1,0 +1,52 @@
+{
+  "name": "test-luna-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@jsluna/accordion": "^1.0.5",
+    "@jsluna/button": "^1.0.6",
+    "@jsluna/card": "^1.0.5",
+    "@jsluna/fonts": "^1.0.5",
+    "@jsluna/footer": "^1.0.5",
+    "@jsluna/form": "^1.1.2",
+    "@jsluna/foundation": "^2.2.0",
+    "@jsluna/grid": "^1.0.5",
+    "@jsluna/header": "^2.0.7",
+    "@jsluna/icons": "^2.0.5",
+    "@jsluna/images": "^3.0.1",
+    "@jsluna/link": "^1.1.5",
+    "@jsluna/list": "^2.0.1",
+    "@jsluna/primer": "^1.0.5",
+    "@jsluna/section": "^1.0.5",
+    "@jsluna/tokens": "^1.1.0",
+    "@jsluna/typography": "^1.0.5",
+    "@jsluna/utils": "^1.0.5",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
