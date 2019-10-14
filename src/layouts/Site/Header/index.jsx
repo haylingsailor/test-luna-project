@@ -1,5 +1,4 @@
 import React from "react";
-import { SainsburysSelect } from "@jsluna/images";
 import { TextButton } from "@jsluna/button";
 import { Header, HeaderLogo, HeaderNav } from "@jsluna/header";
 import { Account } from "@jsluna/icons";
